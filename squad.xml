@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
+<squad nick="MILF">
+	<name>MILF</name>
+	<email>truth@snsga.ch</email>
+	<web>N/A</web>
+	<picture>milf_logo.paa</picture>
+	<title>Men indeed love fights</title>
+	<member id="76561198143409169" nick="-CH- truth">
+		<name>truth</name>
+		<email>truth@snsga.ch</email>
+		<icq>N/A</icq>
+		<remark>Mess with the best - die like the rest</remark>
+	</member>
+	<member id="76561197991856340" nick="Mumpel">
+		<name>Mumpel</name>
+		<email>keine</email>
+		<icq>N/A</icq>
+		<remark>I'm small but strong in battle</remark>
+	</member>
+	<member id="76561198024077330" nick="honesty">
+		<name>honesty</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>One down - one to go</remark>
+	</member>
+	<member id="76561198240903442" nick="Hell">
+		<name>Hell</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>Saaaaaannniii</remark>
+	</member>
+	<member id="76561198035266445" nick="facetti">
+		<name>Facetti</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>Ich hab eine Mine gefunden</remark>
+	</member>
+	<member id="76561198116294946" nick="longrifel">
+		<name>Longrifel</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>on the streets i die</remark>
+	</member>
+	<member id="" nick="longrifle">
+		<name>Longrifle</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>on the streets i die</remark>
+	</member>
+	<member id="76561198017274599" nick="Djdaumen">
+		<name>Djdaumen</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>Lieber stehend sterben, als kniend leben</remark>
+	</member>
+	<member id="76561198001640610" nick="Pixxel">
+		<name>Pixxel</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>Der frühe Vogel fängt den Schuss</remark>
+	</member>
+	<member id="76561197996311140" nick="Ruffy">
+		<name>Ruffy</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>Der letzte Looser</remark>		
+	</member>
+</squad>
